@@ -1,0 +1,48 @@
+{
+  "title": "la naturaleza",
+  "date": "18/10/26",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "la_naturaleza.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 11,
+  "mediaFiles": 24,
+  "totalSize": 958949,
+  "files": [
+    "arbol.jpg",
+    "arbol2.jpg",
+    "basura.jpg",
+    "basura2.jpg",
+    "basura_3.jpg",
+    "basura_4.jpg",
+    "cerrarllave.jpg",
+    "cerrarllave2.jpg",
+    "cortararbol.jpg",
+    "cortararbol2.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "la_naturaleza.jclic",
+    "la_naturaleza.jclic.js",
+    "llave.jpg",
+    "nina.jpg",
+    "ninatierra.jpg",
+    "nino.jpg",
+    "ninoapagandoluz.jpg",
+    "oxigeno.jpg",
+    "porada-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rompecabezas-resized.jpg",
+    "tierra.jpg"
+  ]
+}
